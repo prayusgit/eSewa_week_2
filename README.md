@@ -7,7 +7,7 @@
 
 ## Functionalities
 - Register
-- Login throught password
+- Login through password
 - User Profile
 - Send Money
 - Review statement of the transaction
