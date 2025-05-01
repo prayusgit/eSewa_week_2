@@ -1,4 +1,7 @@
-# eSewa_week_2
+# Mero Wallet Project
+
+*I have made this project to be similar to eSewa application*
+
 ## In this project following things were explored
  - Abstraction, Encapsulation, Polymorphism and Inheritance
  - SQL
@@ -19,9 +22,11 @@
      - More user tier can be added easily
  - Modularity
  - Code readability
- - <bold>User Personalization</bold>
+ - **User Personalization**
 
 
-## To run through docker
- -  `docker build week_2 .`
- -  `docker run -it week_2 sh`
+## To run  
+ - Run the SQL server
+ - `pip install requirements.txt`
+ - Then, uncomment the comments of the scripts `modules.utils` and run it. (comment it after running it)
+ -  In command line type `python main.py`
