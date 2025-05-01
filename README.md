@@ -24,4 +24,4 @@
 
 ## To run through docker
  -  `docker build week_2 .`
- -  `docker run -it week_1 sh`
+ -  `docker run -it week_2 sh`
